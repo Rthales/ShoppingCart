@@ -72,10 +72,10 @@ modules
 
             <bean id="dataSource"
               class="org.springframework.jdbc.datasource.DriverManagerDataSource">
-              <property name="driverClassName" value=YOUR DB DRIVER CLASS NAME" />
-              <property name="url" value="YOUR DB URL" />
-              <property name="username" value="YOUR DB USERNAME" />
-              <property name="password" value="YOUR DB PASSWORD" />
+              <property name="driverClassName" value=DB" />
+              <property name="url" value="http://localhost:8080" />
+              <property name="username" value="root" />
+              <property name="password" value="hLE7jZzhs78qzQ237Wj7VmP5" />
             </bean>
 
       * Database Dialect:
