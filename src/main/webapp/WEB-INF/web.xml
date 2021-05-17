@@ -45,4 +45,12 @@
 		<servlet-name>dispatcher</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
+	
+	<!-- to connect the bank API -->
+	<context-param>
+		<param-name>bank_key_APIconnect</param-name>
+		<param-value>
+			bank_W46LeXTldAijnU91V7BLIyskuXNVUZf8ek8X7pQ7
+		</param-value>
+	</context-param>
 </web-app>
