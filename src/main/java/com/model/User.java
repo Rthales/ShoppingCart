@@ -20,6 +20,7 @@ public class User implements Serializable {
 	private String emailId;
 	private String password;
 	private boolean enabled;
+	private String key = "8b220dfa-581c-4b27-8734-b34556f6dd8c";
 
 	@OneToOne(mappedBy = "users")
 	private Customer customer;
