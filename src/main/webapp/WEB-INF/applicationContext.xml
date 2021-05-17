@@ -93,9 +93,9 @@
 	<security:authentication-manager>
 		<security:authentication-provider>
 			 <!-- <security:user-service>
-			<security:user name="ismail@gmail.com" password="12345"
+			<security:user name="ismail@gmail.com" password="B4RwrSe3FkX4mzT9u9mYgKEV"
 			authorities="ROLE_USER" />
-			<security:user name="ajmal@gmail.com" password="54321"
+			<security:user name="ajmal@gmail.com" password="BmgeXwcDBwtaVqKKUndk5HEv"
 			authorities="ROLE_ADMIN" />
 			</security:user-service> -->
 
