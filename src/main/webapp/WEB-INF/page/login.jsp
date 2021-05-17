@@ -73,6 +73,7 @@
 								</c:if>
 							</div>
 							<!-- Change this to a button or input when using this as a form -->
+							<!-- Test user : user / 2a6e350de8df3a527b59662e38088a49801d84f1 -->
 							<div id="button">
 								<button type="submit" class="btn btn-sm btn-success"
 									style="margin-right: 79px; margin-left: 60px">Login</button>
