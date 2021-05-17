@@ -84,6 +84,8 @@ modules
 
 10. Run the server.
 
+11. API KET FOR TEST : AIzaSyBeCUPgUin3BXurPzw4GsfTFwpWfh9zTuD
+
 #### Somethings wrong!!
 
 If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker, 
